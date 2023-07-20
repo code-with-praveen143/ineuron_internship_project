@@ -8,7 +8,6 @@ from sklearn.model_selection import train_test_split
 
 import warnings
 warnings.filterwarnings('ignore')
-
 df=pd.read_csv('Zomato_df.csv')
 
 df.drop('Unnamed: 0',axis=1,inplace=True)

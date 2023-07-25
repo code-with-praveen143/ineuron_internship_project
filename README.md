@@ -1,4 +1,4 @@
-# Zomato Rating Prediction System
+## Zomato Rating Prediction System
 
 Welcome to the Zomato Rating Prediction System repository! This project focuses on developing an advanced Machine Learning model to predict the ratings of restaurants listed on Zomato, a popular food delivery platform. This README.md file provides an overview of the project and guides you on how to use the system effectively.
 
